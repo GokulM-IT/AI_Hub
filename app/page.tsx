@@ -129,7 +129,7 @@ export default function Page() {
           <div className="bg-gradient-to-br from-green-400 via-blue-500 to-purple-600 p-[1px] rounded-xl w-full max-w-[360px] mx-auto md:mx-0">
             <div className="bg-white dark:bg-gray-900 rounded-xl overflow-hidden aspect-[9/16]">
               <Image
-                src="/homepage/video.png"
+                src="/homepage/video.jpg"
                 alt="AI-generated short video preview"
                 className="w-full h-full object-cover"
                 loading="lazy"

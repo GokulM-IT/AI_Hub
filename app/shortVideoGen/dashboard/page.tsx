@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { getUserVideosFromDatabase } from "@/actions/shortVideoGen/save-video";
 import DashboardVideoPlayer from "@/components/shortVideoGen/video/dashboard-video-player";
 
